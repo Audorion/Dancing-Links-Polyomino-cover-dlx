@@ -14,4 +14,6 @@ Using Dancing Links algorithm by Donald Knuth. https://arxiv.org/abs/cs/0011047
 После этого переводит матрицу смежности в лист смежности(ноды), а затем выполняется поиск при помощи алгоритма Кнута. 
 С алгоритмом можно ознакомиться здесь - https://arxiv.org/abs/cs/0011047 
 Хабр - https://habr.com/ru/post/194410/ 
+
+
 ![Polyomino puzzle](https://github.com/Audorion/Dancing-Links-Polyomino-cover-dlx/blob/master/example-8x8.svg)
